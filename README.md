@@ -16,7 +16,7 @@
 
 ### 🛠️ Skills
 
-<img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,tensorflow,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,mysql,git,github,vscode" />
 
 ---
 
