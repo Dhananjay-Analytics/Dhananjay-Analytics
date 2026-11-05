@@ -9,7 +9,7 @@
 
 - 📚 Data Science student
 - 🔭 Currently working on projects
-- 🧠 Learning: Python, Machine Learning, Data Analysis
+- 🧠 Learning: Python, Excel, Data Analysis
 - 🤝 Always happy to connect and collaborate
 
 ---
