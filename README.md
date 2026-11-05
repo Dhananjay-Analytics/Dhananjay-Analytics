@@ -1,4 +1,3 @@
-![Dhananjay Magare](./photo-1666875753105-c63a6f3bdc86.jpeg)
 # Hello! 👋 I'm Dhananjay
 
 🎓 I'm a college student studying **Data Science**.
