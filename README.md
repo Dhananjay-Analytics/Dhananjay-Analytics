@@ -1,3 +1,4 @@
+![Dhananjay Magare](./banner.png)
 # Hello! 👋 I'm Dhananjay
 
 🎓 I'm a college student studying **Data Science**.
